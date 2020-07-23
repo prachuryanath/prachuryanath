@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
   <h1 align="center">Hi 👋, I'm Prachurya Nath</h1>
-  <h3 align="center">Machine learning enthusiast with a passion for web development learning new skills everyday.</h3>
+  <h3 align="center">Machine learning enthusiast with a passion for web development trying to grow everyday with new skills.</h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachuryanath" alt="prachuryanath" /> </p>
 
   - 🔭 I’m currently studying in **NIT Silchar**
