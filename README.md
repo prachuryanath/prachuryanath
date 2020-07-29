@@ -16,4 +16,5 @@
   <a href="https://kaggle.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="prachuryanath" height="20" width="20" /></a>
   <a href="https://instagram.com/prachurya_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prachurya_official" height="20" width="20" /></a>
   </p>
-![Prachurya's github stats](https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&theme=radical)
+![Prachurya's github stats]
+(https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&theme=radical)
