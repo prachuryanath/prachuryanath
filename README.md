@@ -15,6 +15,7 @@
   <a href="https://kaggle.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="prachuryanath" height="20" width="20" /></a>
   <a href="https://instagram.com/prachurya_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prachurya_official" height="20" width="20" /></a>
   </p>
+
 ![Prachurya's Github Stats](https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&theme=tokyonight)
 
 [![Linkedin Badge](https://img.shields.io/badge/-prachuryanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachurya-nath-5a26b5189/)](https://www.linkedin.com/in/prachurya-nath-5a26b5189/)
@@ -37,7 +38,6 @@ Welcome to my profile! I'm an undergraduate student at NIT Silchar having an int
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
-⭐️ from [@abdullahalrifat](https://github.com/prachuryanath)
+⭐️ from [@prachuryanath](https://github.com/prachuryanath)
