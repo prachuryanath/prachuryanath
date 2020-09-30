@@ -17,12 +17,11 @@
   </p>
 ![Prachurya's Github Stats](https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&theme=tokyonight)
 # Hi I'm Prachurya 👋
-[![Linkedin Badge](https://img.shields.io/badge/-abdullahalrifat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/prachurya-nath-5a26b5189/)
-[![Gmail Badge](https://img.shields.io/badge/-abdullahalrifat95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullahalrifat95@gmail.com)](mailto:prachurya_ug@ee.nits.ac.in)
-[![Facebook Badge](https://img.shields.io/badge/-abdullahalrifatcse-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/prachurya.nath/)](https://www.facebook.com/af)
+[![Linkedin Badge](https://img.shields.io/badge/-prachuryanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachurya-nath-5a26b5189/)](https://www.linkedin.com/in/prachurya-nath-5a26b5189/)
+[![Gmail Badge](https://img.shields.io/badge/-prachuryanath95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prachurya_ug@ee.nits.ac.in)](mailto:prachurya_ug@ee.nits.ac.in)
+[![Facebook Badge](https://img.shields.io/badge/-prachuryanathcse-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/prachurya.nath/)](https://www.facebook.com/af)
 
 Welcome to my profile! I'm an undergraduate student at NIT Silchar having an interest in Machine Learning and Web Development.
-
 
 
 
@@ -43,6 +42,6 @@ Welcome to my profile! I'm an undergraduate student at NIT Silchar having an int
 
 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=prachuryanath.prachuryanath
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=prachuryanath.prachuryanath)
  
 ⭐️ from [@abdullahalrifat](https://github.com/prachuryanath
