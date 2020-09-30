@@ -8,8 +8,9 @@
   - 👯 I’m looking to collaborate on **doing machine learning projects**
 
   - 📫 How to reach me **prachuryanath00@gmail.com**
+  
 
-
+![Prachurya's Github Stats](https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&theme=tokyonight)
 
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -19,18 +20,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-  <p align="center">
-  <a href="https://twitter.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prachuryanath" height="20" width="20" /></a>
-  <a href="https://kaggle.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="prachuryanath" height="20" width="20" /></a>
-  <a href="https://instagram.com/prachurya_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prachurya_official" height="20" width="20" /></a>
-  </p>
-
-![Prachurya's Github Stats](https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&theme=tokyonight)
-
 [![Linkedin Badge](https://img.shields.io/badge/-prachuryanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachurya-nath-5a26b5189/)](https://www.linkedin.com/in/prachurya-nath-5a26b5189/)
 
 [![Gmail Badge](https://img.shields.io/badge/-prachuryanath95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prachurya_ug@ee.nits.ac.in)](mailto:prachurya_ug@ee.nits.ac.in)
 
 [![Facebook Badge](https://img.shields.io/badge/-prachuryanathcse-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/prachurya.nath/)](https://www.facebook.com/af)
+
+  <p align="center">
+  <a href="https://twitter.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prachuryanath" height="20" width="20" /></a>
+  <a href="https://kaggle.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="prachuryanath" height="20" width="20" /></a>
+  <a href="https://instagram.com/prachurya_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prachurya_official" height="20" width="20" /></a>
+  </p>
  
 ⭐️ from [@prachuryanath](https://github.com/prachuryanath)
