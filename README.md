@@ -1,35 +1,80 @@
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-  <h1 align="center">Hi 👋, I'm Prachurya Nath</h1>
-  <h3 align="center">Machine learning enthusiast with a passion for web development trying to grow everyday with new skills.</h3>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachuryanath" alt="prachuryanath" /> </p>
+ <h1 align="center">Hi 👋, I'm Prachurya Nath</h1>
+ <div>
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  width="500">
 
-  - 🔭 I’m currently studying in **NIT Silchar**
-
-  - 👯 I’m looking to collaborate on **doing machine learning projects**
-
-  - 📫 How to reach me **prachuryanath00@gmail.com**
+- 🔭 I’m currently working on learning deep neural networks and deploying them.
+- 🌱 Improving my DSA skills.
+- 🤝 Pronouns: He/Him
+- 👯 I’m looking to collaborate with other devs on cool projects!
   
-
-![Prachurya's Github Stats](https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&theme=tokyonight)
-
-### Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-[![Linkedin Badge](https://img.shields.io/badge/-prachuryanath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachurya-nath-5a26b5189/)](https://www.linkedin.com/in/prachurya-nath-5a26b5189/)
-
-[![Gmail Badge](https://img.shields.io/badge/-prachuryanath95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prachurya_ug@ee.nits.ac.in)](mailto:prachurya_ug@ee.nits.ac.in)
-
-[![Facebook Badge](https://img.shields.io/badge/-prachuryanathcse-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/prachurya.nath/)](https://www.facebook.com/af)
-
+</div>
+<div>
+</br>
+<p align="center"><h3 align='center'><i>Social Media Handles</i></h3></p>
+<p align='center'>
   <p align="center">
   <a href="https://twitter.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prachuryanath" height="20" width="20" /></a>
   <a href="https://kaggle.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="prachuryanath" height="20" width="20" /></a>
   <a href="https://instagram.com/prachurya_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prachurya_official" height="20" width="20" /></a>
   </p>
- 
-⭐️ from [@prachuryanath](https://github.com/prachuryanath)
+</p>
+</div>
+<h2 align='center'><i><a href="https://github.com/prachuryanath/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/prachuryanath/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=prachuryanath&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+</br>
+<h2 align='center'><i>💻⚙ Tech Stack & Tools ⚙💻</i></h2>
+
+<table width="100">
+<tr align='center'>
+ <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="120">
+    </td>
+ <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="120">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="120">
+    </td>
+ <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="140">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/bootstrap.svg" width="60">
+    </td>
+    
+</tr>
+</table>
+<br >
+
+## 🏆 Github Status
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=prachuryanath&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=prachuryanath&theme=tokyonight" width="45%" >
+</div>
+</br>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachuryanath&layout=compact&theme=tokyonight&langs_count=4&hide_border=true" width="45%" align="center" >
+</div>
+<br>
