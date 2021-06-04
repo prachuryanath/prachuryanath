@@ -8,17 +8,13 @@
 - 👯 I’m looking to collaborate with other devs on cool projects!
   
 </div>
-<div>
-</br>
-<p align="center"><h3 align='center'><i>Social Media Handles</i></h3></p>
-<p align='center'>
-  <p align="center">
-  <a href="https://twitter.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prachuryanath" height="20" width="20" /></a>
-  <a href="https://kaggle.com/prachuryanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="prachuryanath" height="20" width="20" /></a>
-  <a href="https://instagram.com/prachurya_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prachurya_official" height="20" width="20" /></a>
-  </p>
-</p>
-</div>
+
+### Hit Me Up!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prachurya%20nath-blue)](https://www.linkedin.com/in/prachurya-nath-5a26b5189/)
+[![Mail](https://img.shields.io/badge/Mail-prachuryanath00%40gmail.com-red)](prachuryanath00@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40prachuryanath-9cf)](https://twitter.com/prachuryanath)
+[![Instagram](https://img.shields.io/badge/Instagram-prachurya__official-E1306C)](https://www.instagram.com/prachurya_official/)
+
 <h2 align='center'><i><a href="https://github.com/prachuryanath/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/prachuryanath/github-readme-activity-graph">
