@@ -2,8 +2,8 @@
  <div>
 <img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  width="500">
 
-- 🔭 I’m currently working on learning deep neural networks and Natural Language Processing.
-- 🌱 Improving my DSA skills.
+- 🔭 I’m currently working on learning Computer Vision and Natural Language Processing.
+- 🌱 Improving my Pytorch skills.
 - 🤝 Pronouns: He/Him
 - 👯 I’m looking to collaborate with other devs on cool projects!
   
